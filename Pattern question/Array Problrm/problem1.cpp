@@ -16,8 +16,7 @@ int main()
 
         if (start == end)
         {
-            start++;
-            end--;
+            
         }
         else
         {
