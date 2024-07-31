@@ -24,7 +24,7 @@ int fac(int n)
             sum = sum + fac(digit);
             temp = temp / 10;
         }
-        retun sum == num;
+        retun sum ==+ num;
     }
 
 int main()
